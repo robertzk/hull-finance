@@ -45,3 +45,33 @@
    none of the bond value is received. In essence, this is a combination of
    a high and low-pass filter with respect to some derivative input (in this
    case, an exchange rate).
+
+## Types of traders
+
+ * Traders of derivative securities can be grouped into three classes:
+   __hedgers__, __speculators__, and __arbitrageurs__.
+
+ * A __hedger__ is interested in reducing the risk that they already face.
+   For example, a company that must pay in a foreign currency can buy
+   a long forward contract in that currency to *lock in* the exchange rate.
+   The purpose of hedging is to make the outcome more certain. It does not
+   necessarily improve the outcome.
+
+   Hedging can be done using, for example, forward contracts and option
+   contracts. While option contracts place a cap on the potential cost,
+   they can be quite expensive.
+
+ * While hedgers seek to reduce exposure to asset price volatility, 
+   speculators take a position in the market. They are either betting 
+   on or against the price of an asset in the market.
+
+ * Arbitrageurs take advantage of instantaneous discrepancies in the market.
+   For example, if the same stock is traded in New York and in London at
+   `$172` and `£100`, respectively, but the sterling is trading at `$1.75`,
+   then there is an arbitrage opportunity of `(1.75 * 100 - 172) = 3` dollars
+   per option. If transaction costs are high (for smaller parties / transactions)
+   this may not be worth it, but for large institutions with low transaction
+   costs it may. In general, this situation is rare and self-correcting,
+   and we assume there are no arbitrage opportunities.
+
+
