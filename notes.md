@@ -31,3 +31,17 @@
    The payoff to the holder of a long position in a European put option
    is `max(X - S_T, 0)` and the payoff from a short position in a
    European put option is `-max(X - S_T, 0)` or `min(S_T - X, 0). 
+
+## Other derivative securities
+
+ * An __interest rate cap__ provides protection against the rate of interest
+   on a floating-rate loan (i.e., a high-pass filter on interest)
+
+ * You can get very creative with derivative bundling / pricing. For example,
+   __ICON__s (index currency option notes) were given out by the Long Term
+   Credit Bank of Japan that yielded a bond payout less `max(0, 1000*(169/S - 1))`
+   dollars, where `S` is the yen-U.S. dollar exchange rate. Thus, if 
+   `S >= 169`, the full bond value is received. If `S <= 169/2 = 84.5`, then
+   none of the bond value is received. In essence, this is a combination of
+   a high and low-pass filter with respect to some derivative input (in this
+   case, an exchange rate).
