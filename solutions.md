@@ -258,36 +258,36 @@
     On the other hand, he will be much more certain of his profit and will avoid risk,
     making it easier to make long-term financial decisions.
 
-  25. *It is July 2008. A mining company has just discovered a small deposit of gold.
-    It will take 6 months to construct the mine. The gold will then be extracted on
-    a more or less continuous basis for 1 year. Futures contracts on gold are 
-    available on the New York Commodity Exchange. There are delivery months every
-    2 months from August 2008 to December 2009. Each contract is for the delivery
-    of 100 ounces. Discoss how the mining company might use futures markets for
-    hedging.*
+ 25. *It is July 2008. A mining company has just discovered a small deposit of gold.
+   It will take 6 months to construct the mine. The gold will then be extracted on
+   a more or less continuous basis for 1 year. Futures contracts on gold are 
+   available on the New York Commodity Exchange. There are delivery months every
+   2 months from August 2008 to December 2009. Each contract is for the delivery
+   of 100 ounces. Discoss how the mining company might use futures markets for
+   hedging.*
 
-    The company should forecast how much gold they expect to mine every two months,
-    and sell the equivalent contracts to lock in the eventual spot price.
+   The company should forecast how much gold they expect to mine every two months,
+   and sell the equivalent contracts to lock in the eventual spot price.
 
-  26. *A company enters into a short futures contract to sell 5,000 bushels of wheat
-    for 450 cents per bushel. The initial margin is $3,000 and the maintenance
-    margin is $2,000. What price change would lead to a margin call?
-    Under what circumstances could $1,500 be withdrawn from the margin account?*
+ 26. *A company enters into a short futures contract to sell 5,000 bushels of wheat
+   for 450 cents per bushel. The initial margin is $3,000 and the maintenance
+   margin is $2,000. What price change would lead to a margin call?
+   Under what circumstances could $1,500 be withdrawn from the margin account?*
 
-    A margin call would trigger on a price drop of $1,000 / 5,000 = $0.20 = 20 cents
-    per bushel. One could withdraw $1,500 from the margin account if the price
-    rose $1,500 / 5000 = $0.30 = 30 cents.
+   A margin call would trigger on a price drop of $1,000 / 5,000 = $0.20 = 20 cents
+   per bushel. One could withdraw $1,500 from the margin account if the price
+   rose $1,500 / 5000 = $0.30 = 30 cents.
 
-  27. *Suppose that there are no storage costs for crude oil and the interest
-    rate for borrowing or lending is 5% per annum. How could you make money on
-    Janaury 8, 2007, by trading June 2007 and December 2007 contracts? Use
-    Table 2.2.*
+ 27. *Suppose that there are no storage costs for crude oil and the interest
+   rate for borrowing or lending is 5% per annum. How could you make money on
+   Janaury 8, 2007, by trading June 2007 and December 2007 contracts? Use
+   Table 2.2.*
 
-    On Jan 9, the June contract was 60.01 with a change of 0.10, so it
-    was 59.91 the day before. The December contract was 62.94 with a change
-    of 0.28, so it was 62.66 the day before. We could go long on the June
-    contract by borrowing, receive the oil, and short the December contract 
-    and return the borrowed funds, which cost 59.91 * e^(0.05 / 2) = 61.43.
+   On Jan 9, the June contract was 60.01 with a change of 0.10, so it
+   was 59.91 the day before. The December contract was 62.94 with a change
+   of 0.28, so it was 62.66 the day before. We could go long on the June
+   contract by borrowing, receive the oil, and short the December contract 
+   and return the borrowed funds, which cost 59.91 * e^(0.05 / 2) = 61.43.
 
  28. 
 
