@@ -289,6 +289,8 @@
     contract by borrowing, receive the oil, and short the December contract 
     and return the borrowed funds, which cost 59.91 * e^(0.05 / 2) = 61.43.
 
+ 28. 
+
 
 
 
