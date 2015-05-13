@@ -93,4 +93,31 @@
 
 # Chapter 2
 
- 1. 
+ 1. Open interest indicates the total number of contracts outstanding (i.e.,
+    the total number of long, or equivalently short, positions). The trading volume
+    is the total number of trades executed that day. If it far exceeds open interest,
+    this indicates a large amount of day trading.
+
+ 2. A commission broker executes trades on behalf of clients, whereas a local
+    executes trades on their own behalf.
+ 
+ 3. We need to solve for `5000 * x = 1000`, so a drop of over `$0.20` per
+    ounce would lead to a margin call.
+
+ 4. The company's total profit is 1000 * (70.50 - 68.30) = $2,200,
+    realized at the end of March 2010. If it is a hedger, then the
+    full profit is taxed in 2010. Otherwise, 1000 * (70.50 - 69.10) = 
+    $1,400 is taxed in 2010 and 1000 * (69.10 - 68.30) = $800 is taxed
+    in 2009.
+
+ 5. It means to sell at $2 or less as soon as the market price reaches $2.
+    It might be used if the investor wishes to close out a position if
+    unfavorable price movements take place. It limits the loss that
+    can be incurred.
+
+    A limit order to sell means to sell at $2 or more as soon as the
+    market price reaches $2. It is used if the investor wishes to wait
+    and sell exactly at (or better) than this price. It might never be reached.
+
+ 6. 
+
