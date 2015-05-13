@@ -230,7 +230,7 @@
 
  22. *"When a futures contract is traded on the floor of the exchange, it may be the
     case that the open interest increases by one, stays the same, or decreases by one."
-    Explain this statement. *
+    Explain this statement.*
 
     Not sure, but I believe it may go on the market, off the market (i.e., intent
     to deliver), or pass from a short to long or vice versa.
