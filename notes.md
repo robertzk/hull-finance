@@ -125,4 +125,55 @@
    required to pay company B cash equal to the decrease. Interest is
    paid on outstanding cash balances.
 
+ * The __settlement price__ is the price at which a contract traded immediately
+   before the bell signaling the end of trading for the day.
+
+ * The __open interest__ in a contract is the number of total contracts
+   outstanding. If the volume of trading in a day is greater than the
+   open interest, it indicates a large number of day trades.
+
+ * In a __normal market__, settlement prices increase as the contract
+   comes to maturity. In an inverted market, the opposite occurs.
+
+ * There are two main types of trades: commission brokers and locals.
+   __Comission brokers__ are following the instructions of their clients and
+   charge a commission for doing so. __Locals__ are trading on their
+   own account.
+
+   __Position traders__ (in contrast to scalpers and day traders) hold
+   their positions for much longer periods of time and hope to make significant
+   profits from major movements in the market.
+
+## Orders
+
+ * The simplest type of order is a __market order__. It is a request that
+   a trade be carried out immediately at the best price available in the market.
+
+ * A __limit order__ specifies a particular price and can only be executed
+   at this price or one more favorable to the investor. For example, if
+   the limit price is $30 for an investor wanting to buy, it will be
+   executed only at $30 or less.
+
+ * A __stop order__ or __stop-loss order__ also specifies a
+   particular price, and is executed at the best available price once a
+   bid or offer is made at that particular price or a less-favorable price.
+
+ * A __stop-limit order__ is a combo of a stop order and a limit order.
+   The order becomes a limit order as soon as a bid or offer is made at a price
+   equal to or less favorable than the stop price.
+
+   The only purpose of this is to reduce exposure to volatility in the market.
+   If a stop-limit buy order is made at $40 stop and $41 limit, then as soon
+   as there is sell order at $40 on the market, the first available sell
+   order below $41 will be captured.
+
+ * A __market-if-touched__ order is executed at the best available price
+   after a trade occurs at a specified or more favorable than the specified price.
+
+ * A __discretionary order__ or __market-not-held order__ is traded as a
+   market order except that execution may be delayed at the broker's discretion
+   in an attempt to get a better price.
+
+ * Other types of orders are __time-of-day orders__, __open orders__,
+   and __fill-or-kill orders__.
 
