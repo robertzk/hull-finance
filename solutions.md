@@ -91,3 +91,6 @@
      two piece-wise graphs make a line equivalent to the return on contract
      volatility. You make money when it goes up and lose money if it goes down.
 
+# Chapter 2
+
+ 1. 

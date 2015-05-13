@@ -74,5 +74,55 @@
    costs it may. In general, this situation is rare and self-correcting,
    and we assume there are no arbitrage opportunities.
 
+# Chapter 2
+
+## Trading
+
+ * __Brokers__ represent other parties in a trade; __local__ represent themselves.
+   
+ * __Closing out__ a position involves making an opposite trade to an original one.
+   For example, if an investor shorts one July contract on March 6, they can
+   close out the position on April 20 by going long one July contract. The
+   investor's total gain or loss reflects the change in futures price between
+   March 6 and April 20.
+
+ * For most contracts, daily price movement limits are given by the exchange.
+   For example, the daily price movement limit is $1 for oil. If it moves
+   a full $1 up or down it is said that the contract is *limit up* or *limit down*,
+   respectively.
+
+ * __Margins__ are used to minimize contract defaults. A __margin account__
+   is the account that is used to deposit funds necessary to enter into
+   a contract, the __initial margin__. The investor can withdraw excess
+   of the initial margin at anytime, but a __maintenance margin__ is kept
+   such that if the account decreases below the margin, a __margin call__
+   is required to "top up" back to the initial margin. If the margin is not
+   topped up, the broker closes out the position by selling the contract.
+
+ * A __day trade__ is a closing out of a position in the same day.
+   A __spread transaction__ is one where the trader simultaneously takes
+   a long position in the contract with one delivery month and a short
+   position in the contract with another delivery month.
+
+ * An __exchange clearinghouse__ is an adjunct of the exchange and acts as
+   an intermediary or middleman in futures transactions. Brokers must
+   channel transactions through a clearinghouse. A clearinghouse member,
+   like an individual investor, must maintain a margin account known
+   as a __clearing margin__. 
+
+ * The __gross basis__ adds the total of all long positions entered
+   into by clients to the total of all the short positions entered
+   into by clients. The __net basis__ allows these to be offset
+   against each other. Most exchanges use net margining.
+
+ * The point of margins and margin calls is to reduce credit risk. Outside of 
+   the exchange markets, i.e., in over-the-counter markets, the equivalent
+   is __collateralization__. 
+  
+   If the value of a contract to company A increases, then company B is
+   required to pay company A cash equal to this increase. Similarly,
+   if the value of the contract to company A decreass, company A is 
+   required to pay company B cash equal to the decrease. Interest is
+   paid on outstanding cash balances.
 
 
