@@ -119,7 +119,7 @@
     market price reaches $2. It is used if the investor wishes to wait
     and sell exactly at (or better) than this price. It might never be reached.
 
- 6. The clearninghouse marging account, unlike the broker margin account, 
+ 6. The clearinghouse marging account, unlike the broker margin account, 
     does not need to post margin calls. Instead, it balances the accounts between
     short and long positions to equal exactly the initial margin at end of day.
 
