@@ -245,4 +245,9 @@
 
  ## Indices
 
+ * A __stock index__ tracks changes in the value of a hypothetical portfolio
+   of stocks. The weight of a stock in the portfolio equals the proportion
+   of the portfolio invested in the stock. 
+
+
 
