@@ -177,3 +177,20 @@
  * Other types of orders are __time-of-day orders__, __open orders__,
    and __fill-or-kill orders__.
 
+# Chapter 3 - Hedging
+
+ * A __perfect hedge__ completely eliminates some sort of market risk, like the
+   price of oil, a foreign exchange rate, the level of the stock market, or some
+   other variable. 
+
+ * A __short hedge__ involves a short position in the futures market. For example,
+   if a company makes $10,000 if a given commodity goes up 1 cent, and loses $10,000
+   if it goes down one cent, it could short the commodity and be certain of its
+   eventual profit: the $10,000 loss per 1 cent increase and $10,000 gain per 1
+   cent decrease in the commodity will offset the aforementioned loss or gain.
+
+   A hedge has the effect of offsetting risk.
+ 
+ * A __long hedge__ involves taking a long position in the futures market
+   for hedging.
+ 
