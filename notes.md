@@ -228,3 +228,21 @@
    price and changes in futures price across time (delta_S v.s. delta_F),
    and stdev_S and stdev_F are the standard deviations of these quantities.
 
+ * The __hedge effectiveness__ is the proportion of the variance eliminated
+   by hedging. This is the R^2 from the regression of delta_S against 
+   delta_F and equals rho^2, or `h*^2 * stdev_F^2 / stdev_S^2`.
+
+ * Thus, the optimal number of futures contract to hedge an asset is
+   `h* Q_A / Q_F`, where h* is the hedge ratio as above, Q_A is the
+   size of the position being hedged, and Q_F is the size of one
+   futures contract.
+
+ * When futures are used for hedging, a small adjustment known as __tailing
+   the hedge__ is occasionally made that allows from the impact of daily
+   settlement. This means replacing the quantities Q_A and Q_F above
+   with V_A and V_F, the dollar value of the position being hedged and
+   futures contract (the futures price times Q_F).
+
+ ## Indices
+
+
