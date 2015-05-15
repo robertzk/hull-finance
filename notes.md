@@ -215,4 +215,16 @@
    effective price is S_2 + F_1 - F_2 =  S_2 + b_2, where b_2 is defined
    as the __basis__).
 
- * 
+ * __Cross hedging__ occurs when one asset is used to hedge a different
+   asset (that may be similar in its market fluctuations).
+   
+ * The __hedge ratio__ is the size of the position taken in futures
+   contracts to the size of the exposure. The hedger should choose a
+   value of the hedge ratio that minimizes the variance of the value
+   of the hedged position. 
+
+ * The optimal hedge ratio can be shown to equal `rho * stdev_S / stdev_F`,
+   where rho is the coefficient of correlation between the changes in spot
+   price and changes in futures price across time (delta_S v.s. delta_F),
+   and stdev_S and stdev_F are the standard deviations of these quantities.
+
