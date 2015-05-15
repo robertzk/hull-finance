@@ -192,5 +192,27 @@
    A hedge has the effect of offsetting risk.
  
  * A __long hedge__ involves taking a long position in the futures market
-   for hedging.
- 
+   for hedging. It is used for when a company knows it will have to purchase
+   a certain asset in the future and wants to lock in a price now.
+
+ * Hedging is not always straightforward, since:
+   
+   1. The asset whose price is to be hedged may not exactly be the same
+      as the asset underlying the futures contract.
+
+   2. The hedger may be uncertain as to the exact date when the asset will
+      be bought or sold.
+
+   3. The hedge may require the futures contract to be closed out before its
+      delivery month.
+
+ * The __basis__ in a hedging situation is the spot price of the asset to be
+   hedged minus the futures price of contract used. __Basis risk__ is the 
+   uncertainty associated with the basis, which governs the effective price
+   paid for (or sold at) of the asset being hedged (for example, if F_1
+   is the current futures price of the hedged asset and S_2 and F_2 are
+   its later spot and futures price, respectively, then this
+   effective price is S_2 + F_1 - F_2 =  S_2 + b_2, where b_2 is defined
+   as the __basis__).
+
+ * 
